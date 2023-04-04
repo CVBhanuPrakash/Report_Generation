@@ -1,0 +1,233 @@
+[
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 3,
+        "Section": "A",
+        "Name": "nadn",
+        "Id": "LPS101"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 4,
+        "Section": "A",
+        "Name": "dsjkf",
+        "Id": "LPS102"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 1,
+        "Section": "A",
+        "Name": "f",
+        "Id": "LPS103"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 2,
+        "Section": "A",
+        "Name": "asdfnj",
+        "Id": "LPS104"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 3,
+        "Section": "A",
+        "Name": "sdfsd",
+        "Id": "LPS105"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 4,
+        "Section": "A",
+        "Name": "dsf",
+        "Id": "LPS106"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 1,
+        "Section": "A",
+        "Name": "sdfas",
+        "Id": "LPS107"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 2,
+        "Section": "A",
+        "Name": "sdfasdf",
+        "Id": "LPS108"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 3,
+        "Section": "A",
+        "Name": "sdfas",
+        "Id": "LPS109"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 4,
+        "Section": "A",
+        "Name": "sdfas",
+        "Id": "LPS110"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 1,
+        "Section": "A",
+        "Name": "sdfas",
+        "Id": "LPS111"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 2,
+        "Section": "B",
+        "Name": "sdfas",
+        "Id": "LPS112"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 3,
+        "Section": "B",
+        "Name": "f",
+        "Id": "LPS113"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 4,
+        "Section": "B",
+        "Name": "sdfas",
+        "Id": "LPS114"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 1,
+        "Section": "B",
+        "Name": "sdfsdf",
+        "Id": "LPS115"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 2,
+        "Section": "B",
+        "Name": "sdfas",
+        "Id": "LPS116"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 3,
+        "Section": "B",
+        "Name": "dsg",
+        "Id": "LPS117"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 4,
+        "Section": "B",
+        "Name": "dfg",
+        "Id": "LPS118"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 5,
+        "Section": "B",
+        "Name": "sd",
+        "Id": "LPS119"
+    },
+    {
+        "School_name": "ABCD SCHOOL",
+        "Class": 4,
+        "Section": "C",
+        "Name": "Nahtatauy",
+        "Id": "LPS120"
+    },
+    {
+        "School_name": "sds",
+        "Class": 3,
+        "Section": "A",
+        "Name": "nadn",
+        "Id": "sds121"
+    },
+    {
+        "School_name": "sds",
+        "Class": 4,
+        "Section": "A",
+        "Name": "dsjkf",
+        "Id": "sds122"
+    },
+    {
+        "School_name": "sds",
+        "Class": 4,
+        "Section": "A",
+        "Name": "dsjkf",
+        "Id": "sds123"
+    },
+    {
+        "School_name": "sds",
+        "Class": 4,
+        "Section": "C",
+        "Name": "Nahtatauy",
+        "Id": "sds124"
+    },
+    {
+        "School_name": "sds",
+        "Class": 3,
+        "Section": "A",
+        "Name": "nadn",
+        "Id": "sds125"
+    },
+    {
+        "School_name": "sds",
+        "Class": 4,
+        "Section": "A",
+        "Name": "dsjkf",
+        "Id": "sds126"
+    },
+    {
+        "School_name": "sds",
+        "Class": 4,
+        "Section": "A",
+        "Name": "dsjkf",
+        "Id": "sds127"
+    },
+    {
+        "School_name": "sds",
+        "Class": 4,
+        "Section": "C",
+        "Name": "Nahtatauy",
+        "Id": "sds128"
+    },
+    {
+        "School_name": "Lotus Public School",
+        "Class": 4,
+        "Section": "C",
+        "Name": "Nahtatauy",
+        "Id": "LPS144"
+    },
+    {
+        "School_name": "Lotus Public School",
+        "Class": 3,
+        "Section": "A",
+        "Name": "nadn",
+        "Id": "LPS140"
+    },
+    {
+        "School_name": "Lotus Public School",
+        "Class": 4,
+        "Section": "A",
+        "Name": "dsjkf",
+        "Id": "LPS130"
+    },
+    {
+        "School_name": "Lotus Public School",
+        "Class": 4,
+        "Section": "A",
+        "Name": "dsjkf",
+        "Id": "LPS131"
+    },
+    {
+        "School_name": "Lotus Public School",
+        "Class": 4,
+        "Section": "C",
+        "Name": "Nahtatauy",
+        "Id": "LPS132"
+    }
+]
